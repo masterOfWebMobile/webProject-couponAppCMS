@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="HCenter">
+    <serverData>
+      <paths name="HCenter">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/NEWCMS" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/adobeair" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/applewebkit" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/chrome" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/coup_image" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/hpwos" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/Opera" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/new_server" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/zip" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/bucket-ico-fonts" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/bs3" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/cgi-bin" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/coupons" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/css" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/font-awesome" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/images" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/img" />
+            <excludedPath path="/domains/hcenter.nethost.co.il/public_html/plugins" />
+            <excludedPath local="true" path="$PROJECT_DIR$/NEWCMS" />
+            <excludedPath local="true" path="$PROJECT_DIR$/adobeair" />
+            <excludedPath local="true" path="$PROJECT_DIR$/applewebkit" />
+            <excludedPath local="true" path="$PROJECT_DIR$/chrome" />
+            <excludedPath local="true" path="$PROJECT_DIR$/coup_image" />
+            <excludedPath local="true" path="$PROJECT_DIR$/hpwos" />
+            <excludedPath local="true" path="$PROJECT_DIR$/Opera" />
+            <excludedPath local="true" path="$PROJECT_DIR$/new_server" />
+            <excludedPath local="true" path="$PROJECT_DIR$/zip" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bucket-ico-fonts" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bs3" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cgi-bin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/coupons" />
+            <excludedPath local="true" path="$PROJECT_DIR$/css" />
+            <excludedPath local="true" path="$PROJECT_DIR$/font-awesome" />
+            <excludedPath local="true" path="$PROJECT_DIR$/images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/img" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins" />
+            <excludedPath path="/NEWCMS" />
+            <excludedPath path="/backup150326.zip" />
+            <excludedPath path="/backup150321.tar.gz" />
+            <excludedPath path="/admin" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+

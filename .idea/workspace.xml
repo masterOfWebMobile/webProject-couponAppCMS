@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d62ceb3-d34f-4c03-8781-f4eda0dfdd3b" name="Default" comment="" />
+    <ignored path="HCenterCMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HCenterCMS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="web-service-v2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/class/web-service-v2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="9135">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <marker date="1426734779000" expanded="true" signature="1479:1553" placeholder="SELECT COUNT..." />
+                <marker date="1426734779000" expanded="true" signature="2277:2338" placeholder="SELECT * FRO..add_coupon..." />
+                <marker date="1426734779000" expanded="true" signature="3145:3201" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426734779000" expanded="true" signature="3989:4106" placeholder="SELECT coupa..cupan_number..." />
+                <marker date="1426734779000" expanded="true" signature="5759:5890" placeholder="INSERT INTO ..." />
+                <marker date="1426734779000" expanded="true" signature="7218:7274" placeholder="SELECT id,c_..add_coupon..." />
+                <marker date="1426734779000" expanded="true" signature="8431:8454" placeholder="SELECT * FRO..add_store..." />
+                <marker date="1426734779000" expanded="true" signature="8901:8925" placeholder="SELECT * FRO..." />
+                <marker date="1426734779000" expanded="true" signature="9864:9921" placeholder="SELECT id FR..." />
+                <marker date="1426734779000" expanded="true" signature="10438:10484" placeholder="SELECT * FRO..add_store..." />
+                <marker date="1426734779000" expanded="true" signature="11462:11546" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426734779000" expanded="true" signature="11735:11839" placeholder="INSERT INTO ..." />
+                <marker date="1426734779000" expanded="true" signature="11955:12011" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426734779000" expanded="true" signature="12345:12401" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426734779000" expanded="true" signature="12991:13047" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426734779000" expanded="true" signature="13383:13463" placeholder="UPDATE coupa..." />
+                <marker date="1426734779000" expanded="true" signature="13890:13967" placeholder="INSERT INTO ..." />
+                <marker date="1426734779000" expanded="true" signature="14778:14958" placeholder="SELECT coupa..." />
+                <marker date="1426734779000" expanded="true" signature="15401:15435" placeholder="SELECT * FRO..add_policy..." />
+                <marker date="1426734779000" expanded="true" signature="16390:16445" placeholder="SELECT * FRO..coupan_gcm..." />
+                <marker date="1426734779000" expanded="true" signature="16614:16671" placeholder="SELECT * FRO..coupan_gcm..." />
+                <marker date="1426734779000" expanded="true" signature="16836:16984" placeholder="INSERT INTO ..." />
+                <marker date="1426734779000" expanded="true" signature="17412:17559" placeholder="UPDATE coupa..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="push_notification.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/push_notification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="10410">
+              <caret line="64" column="60" selection-start-line="11" selection-start-column="4" selection-end-line="64" selection-end-column="60" />
+              <folding>
+                <marker date="1426184030000" expanded="true" signature="510:609" placeholder="Select devic..coupan_gcm..." />
+                <marker date="1426184030000" expanded="true" signature="1171:1274" placeholder="Select devic..coupan_gcm..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToysRUsApns_live.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1875">
+              <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+              <folding>
+                <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+                <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web-service.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/class/web-service.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6420" max-vertical-offset="7920">
+              <caret line="428" column="49" selection-start-line="428" selection-start-column="49" selection-end-line="428" selection-end-column="49" />
+              <folding>
+                <marker date="1426154085000" expanded="true" signature="583:625" placeholder="SELECT COUNT..." />
+                <marker date="1426154085000" expanded="true" signature="1412:1462" placeholder="SELECT * FRO..add_coupon..." />
+                <marker date="1426154085000" expanded="true" signature="2150:2206" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426154085000" expanded="true" signature="3007:3124" placeholder="SELECT coupa..cupan_number..." />
+                <marker date="1426154085000" expanded="true" signature="4777:4908" placeholder="INSERT INTO ..." />
+                <marker date="1426154085000" expanded="true" signature="5988:6011" placeholder="SELECT * FRO..add_store..." />
+                <marker date="1426154085000" expanded="true" signature="6458:6482" placeholder="SELECT * FRO..." />
+                <marker date="1426154085000" expanded="true" signature="7421:7478" placeholder="SELECT id FR..." />
+                <marker date="1426154085000" expanded="true" signature="7995:8041" placeholder="SELECT * FRO..add_store..." />
+                <marker date="1426154085000" expanded="true" signature="9019:9103" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426154085000" expanded="true" signature="9292:9396" placeholder="INSERT INTO ..." />
+                <marker date="1426154085000" expanded="true" signature="9512:9568" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426154085000" expanded="true" signature="9902:9958" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426154085000" expanded="true" signature="10548:10604" placeholder="SELECT * FRO..coupan_like..." />
+                <marker date="1426154085000" expanded="true" signature="10940:11020" placeholder="UPDATE coupa..." />
+                <marker date="1426154085000" expanded="true" signature="11447:11524" placeholder="INSERT INTO ..." />
+                <marker date="1426154085000" expanded="true" signature="12335:12515" placeholder="SELECT coupa..." />
+                <marker date="1426154085000" expanded="true" signature="12958:12992" placeholder="SELECT * FRO..add_policy..." />
+                <marker date="1426154085000" expanded="true" signature="13992:14047" placeholder="SELECT * FRO..coupan_gcm..." />
+                <marker date="1426154085000" expanded="true" signature="14252:14309" placeholder="SELECT * FRO..coupan_gcm..." />
+                <marker date="1426154085000" expanded="true" signature="14525:14673" placeholder="INSERT INTO ..." />
+                <marker date="1426154085000" expanded="true" signature="15267:15414" placeholder="UPDATE coupa..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="11760" max-vertical-offset="17565">
+              <caret line="962" column="56" selection-start-line="959" selection-start-column="20" selection-end-line="962" selection-end-column="56" />
+              <folding>
+                <element signature="e#11801#41522#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_coupon.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add_coupon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4425" max-vertical-offset="11175">
+              <caret line="295" column="74" selection-start-line="295" selection-start-column="74" selection-end-line="295" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_coupon.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view_coupon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3233533" vertical-offset="0" max-vertical-offset="8430">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1426755693000" expanded="true" signature="6164:6230" placeholder="SELECT c_cat..." />
+                <marker date="1426755693000" expanded="true" signature="6547:6620" placeholder="SELECT `id`,..." />
+                <marker date="1426755693000" expanded="true" signature="6971:7012" placeholder="SELECT * FRO..add_coupon..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_banner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update_banner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="990">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/webservices/class/web-service.php" />
+        <option value="$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php" />
+        <option value="$PROJECT_DIR$/webservices/class/GCM.php" />
+        <option value="$PROJECT_DIR$/push_notification.php" />
+        <option value="$PROJECT_DIR$/left_navi.php" />
+        <option value="$PROJECT_DIR$/push_notification_test.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/update_banner.php" />
+        <option value="$PROJECT_DIR$/webservices/class/web-service-v2.php" />
+        <option value="$PROJECT_DIR$/add_coupon.php" />
+        <option value="$PROJECT_DIR$/view_coupon.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCenterCMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCenterCMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCenterCMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="dd49530e-ed79-4715-ab47-46c63b88111f" server_name="HCenter">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d62ceb3-d34f-4c03-8781-f4eda0dfdd3b" name="Default" comment="" />
+      <created>1425956140532</created>
+      <option name="number" value="Default" />
+      <updated>1425956140532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18849841" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22364217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18791209" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webservices/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="465">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4965" max-vertical-offset="7920">
+          <caret line="461" column="74" selection-start-line="461" selection-start-column="74" selection-end-line="461" selection-end-column="74" />
+          <folding>
+            <marker date="1426154085000" expanded="true" signature="583:625" placeholder="SELECT COUNT..." />
+            <marker date="1426154085000" expanded="true" signature="1412:1462" placeholder="SELECT * FRO..add_coupon..." />
+            <marker date="1426154085000" expanded="true" signature="2150:2206" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="3007:3124" placeholder="SELECT coupa..cupan_number..." />
+            <marker date="1426154085000" expanded="true" signature="4777:4908" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="5988:6011" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="6458:6482" placeholder="SELECT * FRO..." />
+            <marker date="1426154085000" expanded="true" signature="7421:7478" placeholder="SELECT id FR..." />
+            <marker date="1426154085000" expanded="true" signature="7995:8041" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="9019:9103" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9292:9396" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="9512:9568" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9902:9958" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10548:10604" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10940:11020" placeholder="UPDATE coupa..." />
+            <marker date="1426154085000" expanded="true" signature="11447:11524" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="12335:12515" placeholder="SELECT coupa..." />
+            <marker date="1426154085000" expanded="true" signature="12958:12992" placeholder="SELECT * FRO..add_policy..." />
+            <marker date="1426154085000" expanded="true" signature="13992:14047" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14252:14309" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14525:14673" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="15267:15414" placeholder="UPDATE coupa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1875">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+          <folding>
+            <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+            <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9105" max-vertical-offset="10410">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1426184030000" expanded="true" signature="510:609" placeholder="Select devic..coupan_gcm..." />
+            <marker date="1426184030000" expanded="true" signature="1171:1274" placeholder="Select devic..coupan_gcm..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left_navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="2775">
+          <caret line="85" column="64" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/GCM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1140">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service-v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6975" max-vertical-offset="8970">
+          <caret line="539" column="9" selection-start-line="492" selection-start-column="8" selection-end-line="539" selection-end-column="9" />
+          <folding>
+            <marker date="1426734779000" expanded="true" signature="1479:1553" placeholder="SELECT COUNT..." />
+            <marker date="1426734779000" expanded="true" signature="2277:2338" placeholder="SELECT * FRO..add_coupon..." />
+            <marker date="1426734779000" expanded="true" signature="3145:3201" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="3989:4106" placeholder="SELECT coupa..cupan_number..." />
+            <marker date="1426734779000" expanded="true" signature="5759:5890" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="7218:7274" placeholder="SELECT id,c_..add_coupon..." />
+            <marker date="1426734779000" expanded="true" signature="8431:8454" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426734779000" expanded="true" signature="8901:8925" placeholder="SELECT * FRO..." />
+            <marker date="1426734779000" expanded="true" signature="9864:9921" placeholder="SELECT id FR..." />
+            <marker date="1426734779000" expanded="true" signature="10438:10484" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426734779000" expanded="true" signature="11462:11546" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="11735:11839" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="11955:12011" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="12345:12401" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="12991:13047" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="13383:13463" placeholder="UPDATE coupa..." />
+            <marker date="1426734779000" expanded="true" signature="13890:13967" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="14778:14958" placeholder="SELECT coupa..." />
+            <marker date="1426734779000" expanded="true" signature="15401:15435" placeholder="SELECT * FRO..add_policy..." />
+            <marker date="1426734779000" expanded="true" signature="16390:16445" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426734779000" expanded="true" signature="16614:16671" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426734779000" expanded="true" signature="16836:16984" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="17412:17559" placeholder="UPDATE coupa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="465">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4965" max-vertical-offset="7920">
+          <caret line="461" column="74" selection-start-line="461" selection-start-column="74" selection-end-line="461" selection-end-column="74" />
+          <folding>
+            <marker date="1426154085000" expanded="true" signature="583:625" placeholder="SELECT COUNT..." />
+            <marker date="1426154085000" expanded="true" signature="1412:1462" placeholder="SELECT * FRO..add_coupon..." />
+            <marker date="1426154085000" expanded="true" signature="2150:2206" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="3007:3124" placeholder="SELECT coupa..cupan_number..." />
+            <marker date="1426154085000" expanded="true" signature="4777:4908" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="5988:6011" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="6458:6482" placeholder="SELECT * FRO..." />
+            <marker date="1426154085000" expanded="true" signature="7421:7478" placeholder="SELECT id FR..." />
+            <marker date="1426154085000" expanded="true" signature="7995:8041" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="9019:9103" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9292:9396" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="9512:9568" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9902:9958" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10548:10604" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10940:11020" placeholder="UPDATE coupa..." />
+            <marker date="1426154085000" expanded="true" signature="11447:11524" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="12335:12515" placeholder="SELECT coupa..." />
+            <marker date="1426154085000" expanded="true" signature="12958:12992" placeholder="SELECT * FRO..add_policy..." />
+            <marker date="1426154085000" expanded="true" signature="13992:14047" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14252:14309" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14525:14673" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="15267:15414" placeholder="UPDATE coupa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1875">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+          <folding>
+            <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+            <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+            <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="10110">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <marker date="1426184030000" expanded="true" signature="510:609" placeholder="Select devic..coupan_gcm..." />
+            <marker date="1426184030000" expanded="true" signature="1171:1274" placeholder="Select devic..coupan_gcm..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/GCM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1095">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="930">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+            <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="10110">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <marker date="1426184030000" expanded="true" signature="510:609" placeholder="Select devic..coupan_gcm..." />
+            <marker date="1426184030000" expanded="true" signature="1171:1274" placeholder="Select devic..coupan_gcm..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/GCM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left_navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="2760">
+          <caret line="81" column="24" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service-v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9135">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="8025">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10477" max-vertical-offset="19815">
+          <caret line="712" column="36" selection-start-line="712" selection-start-column="36" selection-end-line="712" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/save_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="2565">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="855">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5525" max-vertical-offset="11175">
+          <caret line="385" column="36" selection-start-line="385" selection-start-column="36" selection-end-line="391" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left_navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2760">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10477" max-vertical-offset="19815">
+          <caret line="712" column="36" selection-start-line="712" selection-start-column="36" selection-end-line="712" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/save_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="2565">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="855">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5525" max-vertical-offset="11175">
+          <caret line="385" column="36" selection-start-line="385" selection-start-column="36" selection-end-line="391" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_policy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9166666" vertical-offset="104" max-vertical-offset="960">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20769231" vertical-offset="0" max-vertical-offset="3480">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38655463" vertical-offset="1959" max-vertical-offset="13485">
+          <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1453958" vertical-offset="0" max-vertical-offset="619">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31502423" vertical-offset="0" max-vertical-offset="619">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44264942" vertical-offset="26" max-vertical-offset="1035">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="858">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/GCM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7377622" vertical-offset="282" max-vertical-offset="1140">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left_navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077" vertical-offset="1110" max-vertical-offset="2775">
+          <caret line="85" column="64" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27372262" vertical-offset="555" max-vertical-offset="10650">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/ToysRUsApns_live.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1875">
+          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+          <folding>
+            <marker date="1426182073000" expanded="false" signature="1568:1578" placeholder="..." />
+            <marker date="1426182073000" expanded="false" signature="3497:3507" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push_notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="10410">
+          <caret line="64" column="60" selection-start-line="11" selection-start-column="4" selection-end-line="64" selection-end-column="60" />
+          <folding>
+            <marker date="1426184030000" expanded="true" signature="510:609" placeholder="Select devic..coupan_gcm..." />
+            <marker date="1426184030000" expanded="true" signature="1171:1274" placeholder="Select devic..coupan_gcm..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6420" max-vertical-offset="7920">
+          <caret line="428" column="49" selection-start-line="428" selection-start-column="49" selection-end-line="428" selection-end-column="49" />
+          <folding>
+            <marker date="1426154085000" expanded="true" signature="583:625" placeholder="SELECT COUNT..." />
+            <marker date="1426154085000" expanded="true" signature="1412:1462" placeholder="SELECT * FRO..add_coupon..." />
+            <marker date="1426154085000" expanded="true" signature="2150:2206" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="3007:3124" placeholder="SELECT coupa..cupan_number..." />
+            <marker date="1426154085000" expanded="true" signature="4777:4908" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="5988:6011" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="6458:6482" placeholder="SELECT * FRO..." />
+            <marker date="1426154085000" expanded="true" signature="7421:7478" placeholder="SELECT id FR..." />
+            <marker date="1426154085000" expanded="true" signature="7995:8041" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426154085000" expanded="true" signature="9019:9103" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9292:9396" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="9512:9568" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="9902:9958" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10548:10604" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426154085000" expanded="true" signature="10940:11020" placeholder="UPDATE coupa..." />
+            <marker date="1426154085000" expanded="true" signature="11447:11524" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="12335:12515" placeholder="SELECT coupa..." />
+            <marker date="1426154085000" expanded="true" signature="12958:12992" placeholder="SELECT * FRO..add_policy..." />
+            <marker date="1426154085000" expanded="true" signature="13992:14047" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14252:14309" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426154085000" expanded="true" signature="14525:14673" placeholder="INSERT INTO ..." />
+            <marker date="1426154085000" expanded="true" signature="15267:15414" placeholder="UPDATE coupa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34265736" vertical-offset="9051" max-vertical-offset="15885">
+          <caret line="623" column="9" selection-start-line="623" selection-start-column="9" selection-end-line="623" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/save_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3251748" vertical-offset="1722" max-vertical-offset="2580">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="990">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11760" max-vertical-offset="17565">
+          <caret line="962" column="56" selection-start-line="959" selection-start-column="20" selection-end-line="962" selection-end-column="56" />
+          <folding>
+            <element signature="e#11801#41522#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/class/web-service-v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="9135">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1426734779000" expanded="true" signature="1479:1553" placeholder="SELECT COUNT..." />
+            <marker date="1426734779000" expanded="true" signature="2277:2338" placeholder="SELECT * FRO..add_coupon..." />
+            <marker date="1426734779000" expanded="true" signature="3145:3201" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="3989:4106" placeholder="SELECT coupa..cupan_number..." />
+            <marker date="1426734779000" expanded="true" signature="5759:5890" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="7218:7274" placeholder="SELECT id,c_..add_coupon..." />
+            <marker date="1426734779000" expanded="true" signature="8431:8454" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426734779000" expanded="true" signature="8901:8925" placeholder="SELECT * FRO..." />
+            <marker date="1426734779000" expanded="true" signature="9864:9921" placeholder="SELECT id FR..." />
+            <marker date="1426734779000" expanded="true" signature="10438:10484" placeholder="SELECT * FRO..add_store..." />
+            <marker date="1426734779000" expanded="true" signature="11462:11546" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="11735:11839" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="11955:12011" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="12345:12401" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="12991:13047" placeholder="SELECT * FRO..coupan_like..." />
+            <marker date="1426734779000" expanded="true" signature="13383:13463" placeholder="UPDATE coupa..." />
+            <marker date="1426734779000" expanded="true" signature="13890:13967" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="14778:14958" placeholder="SELECT coupa..." />
+            <marker date="1426734779000" expanded="true" signature="15401:15435" placeholder="SELECT * FRO..add_policy..." />
+            <marker date="1426734779000" expanded="true" signature="16390:16445" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426734779000" expanded="true" signature="16614:16671" placeholder="SELECT * FRO..coupan_gcm..." />
+            <marker date="1426734779000" expanded="true" signature="16836:16984" placeholder="INSERT INTO ..." />
+            <marker date="1426734779000" expanded="true" signature="17412:17559" placeholder="UPDATE coupa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4425" max-vertical-offset="11175">
+          <caret line="295" column="74" selection-start-line="295" selection-start-column="74" selection-end-line="295" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_coupon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3233533" vertical-offset="0" max-vertical-offset="8430">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1426755693000" expanded="true" signature="6164:6230" placeholder="SELECT c_cat..." />
+            <marker date="1426755693000" expanded="true" signature="6547:6620" placeholder="SELECT `id`,..." />
+            <marker date="1426755693000" expanded="true" signature="6971:7012" placeholder="SELECT * FRO..add_coupon..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
